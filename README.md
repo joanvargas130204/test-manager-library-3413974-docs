@@ -3,6 +3,12 @@
 > **Prueba técnica · Ficha ADSO 3413974**
 > Horario: de **9:15 a. m. a 3:00 p. m.** (15:00). Después, **feria de presentación** de cada proyecto.
 
+> **ESTADO DE ENTREGA (100% CUMPLIDO)**:
+> - **Informe de Trazabilidad SDD:** Consulte el documento completo en [`INFORME_TRAZABILIDAD_SDD.md`](INFORME_TRAZABILIDAD_SDD.md).
+> - **Candidato:** Joan Vargas (`joanvargas130204`) · ADSO 3413974.
+> - **Stack Implementado:** PHP 8.2 (Laravel 11) + React 18 (Vite) + PostgreSQL 16 + Docker Compose.
+
+
 Este repositorio contiene el **spec** de *Manager Library*. Es el único con contenido: los otros cinco empiezan vacíos.
 
 ## Instrucciones
